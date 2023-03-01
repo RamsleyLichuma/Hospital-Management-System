@@ -30,3 +30,11 @@
 	border: 0;
 	width: 100%;
   }
+
+.image-slider img{
+  position: relative;
+  width:100%;
+  display: block;
+  float: left;
+
+}

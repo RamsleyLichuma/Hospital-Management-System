@@ -2,7 +2,7 @@
     $user = "lichuma"; 
     $password = "lichuma2023";
     $ODBCConnection = odbc_connect(
-    "DRIVER={Devart ODBC Driver for SQL Server};
+    "DRIVER={ ODBC Driver 11 for SQL Server};
     Server=DESKTOP-TQ5IM0U;
     Database=hms; 
     Port=8080;
